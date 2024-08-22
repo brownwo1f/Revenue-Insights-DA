@@ -1,4 +1,4 @@
-# Revenue-Insights-DA
+# Revenue Insights - Hotel Business [Power BI | SQL]
 
 #### • Atliq Grand, a multiple five-star hotel, noticed a loss in its market share and wanted to address this issue.
 #### • To provide an end-to-end dashboard that helps in making data-informed decisions.
